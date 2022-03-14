@@ -1,0 +1,19 @@
+ul{
+    color: white;
+}
+
+h1{
+    color: white
+}
+
+body{
+    background: black;
+}
+
+html { 
+    background: url(https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;S
+    background-size: cover;
+  }
